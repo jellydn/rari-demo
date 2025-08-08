@@ -10,7 +10,7 @@ importers:
     dependencies:
       rari:
         specifier: latest
-        version: 0.1.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+        version: 0.1.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
       react:
         specifier: ^19.1.0
         version: 19.1.1
@@ -34,8 +34,8 @@ importers:
         specifier: ^19.1.6
         version: 19.1.7(@types/react@19.1.9)
       '@typescript/native-preview':
-        specifier: 7.0.0-dev.20250611.1
-        version: 7.0.0-dev.20250611.1
+        specifier: 7.0.0-dev.20250808.1
+        version: 7.0.0-dev.20250808.1
       '@vitejs/plugin-react-oxc':
         specifier: ^0.2.3
         version: 0.2.3(vite@7.0.6(@types/node@24.2.0)(jiti@2.5.1)(lightningcss@1.30.1))
@@ -623,50 +623,50 @@ packages:
   '@types/react@19.1.9':
     resolution: {integrity: sha512-WmdoynAX8Stew/36uTSVMcLJJ1KRh6L3IZRx1PZ7qJtBqT3dYTgyDTx8H1qoRghErydW7xw9mSJ3wS//tCRpFA==}
 
-  '@typescript/native-preview-darwin-arm64@7.0.0-dev.20250611.1':
-    resolution: {integrity: sha512-FmLlxktvUP/j91ervWGZZ7909idVlHgEqHbetPXPpiABBqzMbE7de6qCiL+mNuZ6tcXHZ3eSng5yvQMLa4EX/w==}
+  '@typescript/native-preview-darwin-arm64@7.0.0-dev.20250808.1':
+    resolution: {integrity: sha512-sLYVMJcUL/nWbuttSKeEjov1yCPjVKSUzJQLSBQexLCefAbUjDSog91LB/+6So82FhV9hWlgiqEJ7KzYCW6+yA==}
     engines: {node: '>=20.6.0'}
     cpu: [arm64]
     os: [darwin]
 
-  '@typescript/native-preview-darwin-x64@7.0.0-dev.20250611.1':
-    resolution: {integrity: sha512-rdWrYFCz2BnhmOuHyPNApuP6kN04lFgKXcAftlpBj/hbSrW64RAB2+kDKbUqhrBf7UaUdN02RRLOEBiDK+zWsA==}
+  '@typescript/native-preview-darwin-x64@7.0.0-dev.20250808.1':
+    resolution: {integrity: sha512-zFsSYSm5Ko7bEaUgXCTHe/zb0nwB3fhTEMJXolAT87IGJ05PAkIHaDaODacb9BEJRrJzdHCQipbkhE3ZZsWgvQ==}
     engines: {node: '>=20.6.0'}
     cpu: [x64]
     os: [darwin]
 
-  '@typescript/native-preview-linux-arm64@7.0.0-dev.20250611.1':
-    resolution: {integrity: sha512-Abn9vNMJn48oJqrnUMmLap8jpI4lIq1Fb/tmWLnpST4S49/PxqJxo5g+WmT9Ql1CzBczHX+6kKXfowU4nAe1DA==}
+  '@typescript/native-preview-linux-arm64@7.0.0-dev.20250808.1':
+    resolution: {integrity: sha512-4nZP2JaIrYqx15V6WWiwKgfUSfatB5Tz0Tw7tjE6H2LA8dhdQs8hFzQGHzaslOVPcx3352anCVMehjgEh+iKJg==}
     engines: {node: '>=20.6.0'}
     cpu: [arm64]
     os: [linux]
 
-  '@typescript/native-preview-linux-arm@7.0.0-dev.20250611.1':
-    resolution: {integrity: sha512-saymYX8jnjYbvzxIyCb89egXMUVyB9A1Xa42sdAhMFyt7Yvr10v0XEf/ef+KS3fyja8XXTzvpaEca7DEVO60lQ==}
+  '@typescript/native-preview-linux-arm@7.0.0-dev.20250808.1':
+    resolution: {integrity: sha512-EL4183JV7254W2YnzBUurdnOa0VZmZp/vAAVApYTKTX57kUMM1rUZelvFzVt9Eg+QSgwnCwRkR0InRQVSDiqtA==}
     engines: {node: '>=20.6.0'}
     cpu: [arm]
     os: [linux]
 
-  '@typescript/native-preview-linux-x64@7.0.0-dev.20250611.1':
-    resolution: {integrity: sha512-zeWIXFbwPPhY47fR++NysyN6j8Q2GO8OBIetVr6pLr8h8o0U6FOLGdDgvfQjJ7eZ6/ZDzC27AjTVHmsXKRf4ww==}
+  '@typescript/native-preview-linux-x64@7.0.0-dev.20250808.1':
+    resolution: {integrity: sha512-PXn6sjAStVFV9KjgmKCj6MrOi+ouVTtkJiU72zoLoejll+wT0xu3Hly4eRz5C+VKkWHXlaQvRV5E4Qcp57QWRA==}
     engines: {node: '>=20.6.0'}
     cpu: [x64]
     os: [linux]
 
-  '@typescript/native-preview-win32-arm64@7.0.0-dev.20250611.1':
-    resolution: {integrity: sha512-7aHRJxSWhxRCBehaRjVAvWSpMVQHgHrkMryXp/mJd63tJInEqQpvYbuA4C4wdNJCRl0iTAoqHwFBkJmNgvLK9g==}
+  '@typescript/native-preview-win32-arm64@7.0.0-dev.20250808.1':
+    resolution: {integrity: sha512-bblUodDySZOZqCXZm9pNpyu+UfJLb5OmxYeNYKi+k+T+1MgbtmGFYk+FbJwZug/7z/Q6h1h+y2ryJyAovgV/Rg==}
     engines: {node: '>=20.6.0'}
     cpu: [arm64]
     os: [win32]
 
-  '@typescript/native-preview-win32-x64@7.0.0-dev.20250611.1':
-    resolution: {integrity: sha512-xZa/8hAFEjcd1/B9LJQPSxfs7P64jwcWIU3tNFtZLZgYs4ICJAUhbYxwPRO7bOrqkCIu2ZoviFw3VPTQsFAbBg==}
+  '@typescript/native-preview-win32-x64@7.0.0-dev.20250808.1':
+    resolution: {integrity: sha512-ocMKolDiUa/g68NcTySq8+b/hM1g+pxxpwm+pST/TSsRJ95j7lbcGeXhAXFZZHT8IUwsQFrf8rK/kByGMrapxQ==}
     engines: {node: '>=20.6.0'}
     cpu: [x64]
     os: [win32]
 
-  '@typescript/native-preview@7.0.0-dev.20250611.1':
-    resolution: {integrity: sha512-tmTHXiKI8Jzc2/sEnr0E8Ep4G9o7FBl0yVMvo70x3v9NtO3oFpU0J3CGdjNEQjMQOtk6u6sxualy6fISzKL8yw==}
+  '@typescript/native-preview@7.0.0-dev.20250808.1':
+    resolution: {integrity: sha512-gOjZikd2y3obz7yDQjOEoVGpJW8xj8U24xeFa5zNYjCJ3wLP6dCEHP8ndIwhP3pCzDwgwTblaQGAtY/zCqE2TA==}
     engines: {node: '>=20.6.0'}
     hasBin: true
 
@@ -826,43 +826,43 @@ packages:
     resolution: {integrity: sha512-3Ybi1tAuwAP9s0r1UQ2J4n5Y0G05bJkpUIO0/bI9MhwmD70S5aTWbXGBwxHrelT+XM1k6dM0pk+SwNkpTRN7Pg==}
     engines: {node: ^10 || ^12 || >=14}
 
-  rari-darwin-arm64@0.1.3:
-    resolution: {integrity: sha512-nGRytqUfE/qRWbykYCYwQ5CvSErYrwM9J9mZ1kzl1pdO3lpYEgGaq2/4/ekb3QGlyQGOUufS9kjGyhfKOBWDTQ==}
+  rari-darwin-arm64@0.1.4:
+    resolution: {integrity: sha512-2jM2vvYfRfuX3fanmdq8TUi962pjAZPS35x4IBN0PMA89yF9Hm0z55n0VelyyvFJG2CpP3DIKwVpZKIFqkcLSA==}
     engines: {node: '>=20.0.0'}
     cpu: [arm64]
     os: [darwin]
     hasBin: true
 
-  rari-darwin-x64@0.1.3:
-    resolution: {integrity: sha512-e+yndgxQWADPqA5FpxPLh20HbGiq0DIaFEdxpRFNWo+/O7MdDtbNhGnuORDda8hAo7nDQK4tTdVNsBalXjBTCQ==}
+  rari-darwin-x64@0.1.4:
+    resolution: {integrity: sha512-ZV0sq6mhoVN8H2nbM6V2UPzQXW/9fqY2z8sOFtdQ8a0wMZxhKfbcRxw6lVfLNJrq/ZDYP8DRLdimw8TXx2cruw==}
     engines: {node: '>=20.0.0'}
     cpu: [x64]
     os: [darwin]
     hasBin: true
 
-  rari-linux-arm64@0.1.3:
-    resolution: {integrity: sha512-KjfqMbBBDFFovybQNiVVnRYI1BMey0yQ0TYVjJKe7iudSmu8i2y9X/nifG0dCepgASzycUHht2jSEMDHWpka0A==}
+  rari-linux-arm64@0.1.4:
+    resolution: {integrity: sha512-7h+TF69TQYZuacAQHt8O1s4oPmfepBth91S3YiB0aziRvlC2OEIe0Sy9u0Jy2aZ/3wl8JqLDFH1zT/0XljhFhg==}
     engines: {node: '>=20.0.0'}
     cpu: [arm64]
     os: [linux]
     hasBin: true
 
-  rari-linux-x64@0.1.3:
-    resolution: {integrity: sha512-OiXVEBc1Q2pxZNjJjKzU4DaJQj0/KSNcCYiGjpRZxvJYfmFeSqAye6K+4P0j9oQHC2pScDMQ30DX+nRilNIXSg==}
+  rari-linux-x64@0.1.4:
+    resolution: {integrity: sha512-fKHWPuiK8v8JS1kkuMbLy23R2pcJ0mQfy58zimKsjq6TvVxJMNSVAFaZECHfLUfNQaUrw50CcXT/0VXga0G6hw==}
     engines: {node: '>=20.0.0'}
     cpu: [x64]
     os: [linux]
     hasBin: true
 
-  rari-win32-x64@0.1.3:
-    resolution: {integrity: sha512-ujAY+J9P9t8BBvlD2K/VT/5qO7efsj4G5NHxDRqWnU0BrQ4GS4iay+jFU5h/NwBnqSqGlorICgFld8cKUvyKNA==}
+  rari-win32-x64@0.1.4:
+    resolution: {integrity: sha512-D3Bw+egskxAlyV6yd1m1c0oKBzl3i4C8nuq7+v9S51opvc/xOorfjzFRxblMR8oHPZjWYAHaGsbhFLetnpq3Iw==}
     engines: {node: '>=20.0.0'}
     cpu: [x64]
     os: [win32]
     hasBin: true
 
-  rari@0.1.3:
-    resolution: {integrity: sha512-U9Fl80mcqVqCSGHUo4fLovBp7FI+AO3hE1ERfurInS9fdLY0rkXl4kSiFMhQCAstgNYvYom4Lpuwtfw46Y779g==}
+  rari@0.1.4:
+    resolution: {integrity: sha512-4t7VDt9WrbSCXxXqoJ6cdnkr0qEOL59FQm0EmWG9Pq0/NQoeQD2qbF+fahxje1GpiacX253SEO9/w2V3qTUZtQ==}
     engines: {node: '>=20.0.0'}
     hasBin: true
     peerDependencies:
@@ -1386,36 +1386,36 @@ snapshots:
     dependencies:
       csstype: 3.1.3
 
-  '@typescript/native-preview-darwin-arm64@7.0.0-dev.20250611.1':
+  '@typescript/native-preview-darwin-arm64@7.0.0-dev.20250808.1':
     optional: true
 
-  '@typescript/native-preview-darwin-x64@7.0.0-dev.20250611.1':
+  '@typescript/native-preview-darwin-x64@7.0.0-dev.20250808.1':
     optional: true
 
-  '@typescript/native-preview-linux-arm64@7.0.0-dev.20250611.1':
+  '@typescript/native-preview-linux-arm64@7.0.0-dev.20250808.1':
     optional: true
 
-  '@typescript/native-preview-linux-arm@7.0.0-dev.20250611.1':
+  '@typescript/native-preview-linux-arm@7.0.0-dev.20250808.1':
     optional: true
 
-  '@typescript/native-preview-linux-x64@7.0.0-dev.20250611.1':
+  '@typescript/native-preview-linux-x64@7.0.0-dev.20250808.1':
     optional: true
 
-  '@typescript/native-preview-win32-arm64@7.0.0-dev.20250611.1':
+  '@typescript/native-preview-win32-arm64@7.0.0-dev.20250808.1':
     optional: true
 
-  '@typescript/native-preview-win32-x64@7.0.0-dev.20250611.1':
+  '@typescript/native-preview-win32-x64@7.0.0-dev.20250808.1':
     optional: true
 
-  '@typescript/native-preview@7.0.0-dev.20250611.1':
+  '@typescript/native-preview@7.0.0-dev.20250808.1':
     optionalDependencies:
-      '@typescript/native-preview-darwin-arm64': 7.0.0-dev.20250611.1
-      '@typescript/native-preview-darwin-x64': 7.0.0-dev.20250611.1
-      '@typescript/native-preview-linux-arm': 7.0.0-dev.20250611.1
-      '@typescript/native-preview-linux-arm64': 7.0.0-dev.20250611.1
-      '@typescript/native-preview-linux-x64': 7.0.0-dev.20250611.1
-      '@typescript/native-preview-win32-arm64': 7.0.0-dev.20250611.1
-      '@typescript/native-preview-win32-x64': 7.0.0-dev.20250611.1
+      '@typescript/native-preview-darwin-arm64': 7.0.0-dev.20250808.1
+      '@typescript/native-preview-darwin-x64': 7.0.0-dev.20250808.1
+      '@typescript/native-preview-linux-arm': 7.0.0-dev.20250808.1
+      '@typescript/native-preview-linux-arm64': 7.0.0-dev.20250808.1
+      '@typescript/native-preview-linux-x64': 7.0.0-dev.20250808.1
+      '@typescript/native-preview-win32-arm64': 7.0.0-dev.20250808.1
+      '@typescript/native-preview-win32-x64': 7.0.0-dev.20250808.1
 
   '@vitejs/plugin-react-oxc@0.2.3(vite@7.0.6(@types/node@24.2.0)(jiti@2.5.1)(lightningcss@1.30.1))':
     dependencies:
@@ -1557,22 +1557,22 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  rari-darwin-arm64@0.1.3:
+  rari-darwin-arm64@0.1.4:
     optional: true
 
-  rari-darwin-x64@0.1.3:
+  rari-darwin-x64@0.1.4:
     optional: true
 
-  rari-linux-arm64@0.1.3:
+  rari-linux-arm64@0.1.4:
     optional: true
 
-  rari-linux-x64@0.1.3:
+  rari-linux-x64@0.1.4:
     optional: true
 
-  rari-win32-x64@0.1.3:
+  rari-win32-x64@0.1.4:
     optional: true
 
-  rari@0.1.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rari@0.1.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
     dependencies:
       acorn: 8.15.0
       esbuild: 0.25.8
@@ -1580,11 +1580,11 @@ snapshots:
       react: 19.1.1
       react-dom: 19.1.1(react@19.1.1)
     optionalDependencies:
-      rari-darwin-arm64: 0.1.3
-      rari-darwin-x64: 0.1.3
-      rari-linux-arm64: 0.1.3
-      rari-linux-x64: 0.1.3
-      rari-win32-x64: 0.1.3
+      rari-darwin-arm64: 0.1.4
+      rari-darwin-x64: 0.1.4
+      rari-linux-arm64: 0.1.4
+      rari-linux-x64: 0.1.4
+      rari-win32-x64: 0.1.4
 
   react-dom@19.1.1(react@19.1.1):
     dependencies:
